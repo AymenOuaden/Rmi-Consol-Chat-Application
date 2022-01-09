@@ -10,6 +10,6 @@ To run the application, move Inside the src folder and do :
   - Lance the second CMD and write: java Server
   - Lance another CMD for each user and write: java Client
 
-<img src="Image/Chat.PNG" width="400" style="margin-left: 50px">
+<img src="Image/Chat.PNG" style="margin-left: 50px">
 
 <img src="Image/Pseudo.PNG" width="400" style="margin-left: 50px">
