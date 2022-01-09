@@ -12,4 +12,4 @@ To run the application, move Inside the src folder and do :
 
 <img src="Image/Chat.PNG" style="margin-left: 50px">
 
-<img src="Image/Pseudo.PNG" width="400" style="margin-left: 50px">
+<img src="Image/Pseudo.PNG" style="margin-left: 50px">
