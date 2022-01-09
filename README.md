@@ -1,0 +1,13 @@
+# Rmi-Consol-Chat-Application
+
+This is a simple chat application, using RMI(Remote method invocation).
+It contains some base features:
+  - Connect to the chat room with pseudo (Can't have two users with the same pseudo).
+  - Send and receive messages.
+  - Left the room.
+To run the application, move Inside the src folder and do :
+  - Lance the first CMD and write: rmiregistry
+  - Lance the second CMD and write: java Server
+  - Lance another CMD for each user and write: java Client
+
+  <img src="Images/ang.png" width="250" style="margin-left: 50px">  <img src="Images/fr.png" width="250" style="margin-left: 50px"> <img src="chat.png" width="250" style="margin-left: 50px">
