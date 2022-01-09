@@ -5,6 +5,7 @@ It contains some base features:
   - Connect to the chat room with pseudo (Can't have two users with the same pseudo).
   - Send and receive messages.
   - Left the room.
+
 To run the application, move Inside the src folder and do :
   - Lance the first CMD and write: rmiregistry
   - Lance the second CMD and write: java Server
